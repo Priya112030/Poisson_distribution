@@ -1,6 +1,7 @@
 # Exp 2: Poisson  distribution
 # Name:Priya.B
 # Reference number:24900803
+# Date:05.10.2024
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
